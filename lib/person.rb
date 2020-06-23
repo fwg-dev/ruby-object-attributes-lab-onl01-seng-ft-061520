@@ -4,7 +4,7 @@ class Person
   end
 
 def job=(job)
-  @job = job
+  @job 
 end
 end
 
