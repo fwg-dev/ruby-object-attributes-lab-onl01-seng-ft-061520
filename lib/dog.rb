@@ -5,6 +5,12 @@ class Dog
  def name
     @name
  end
+ def breed=(breed)
+   @breed=breed 
+ end 
+ def breed 
+   @breed @
+ end 
 end
 # Dog is defined within lib/dog.rb
 # Dog with names #name= writes the name of the dog to an instance variable @name
