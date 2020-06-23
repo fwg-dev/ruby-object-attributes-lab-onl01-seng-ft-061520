@@ -9,7 +9,7 @@ class Dog
    @breed=breed
  end
  def breed
-   @breed @
+   @breed 
  end
 end
 # Dog is defined within lib/dog.rb
