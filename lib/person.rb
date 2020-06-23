@@ -7,9 +7,9 @@ class Person
     @name
 
   def job=(job)
-    @job = job 
-  def job 
-    @job 
+    @job = job
+  def job
+    @job
   end
 end
 
